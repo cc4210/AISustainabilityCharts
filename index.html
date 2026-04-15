@@ -188,7 +188,7 @@
     <a href="https://ember-energy.org/latest-insights/us-electricity-2025-special-report/2024-in-review/" target="_blank" rel="noopener">Ember — US Electricity 2025 Special Report</a>
     (25 TWh of 128 TWh 2024 rise attributable to heatwave temperatures vs. 2023)
     <br>
-    <span class="src-label">Notes:</span> Projections use IEA base case; high scenario from IEA Lift-Off case. Growth rates for multi-year intervals are annualised CAGRs. Sectoral TWh contributions are approximate.
+    <span class="src-label">Notes:</span> Projections use IEA base case; high scenario from IEA Lift-Off case. Growth rates for multi-year intervals are annualised CAGRs. Sectoral TWh contributions are approximate.<br>
 <span class="src-label">AI Statement:</span> Claude was used to scrape data from websites and produce these charts and front-end of this html page.
   </div>
 </div>
